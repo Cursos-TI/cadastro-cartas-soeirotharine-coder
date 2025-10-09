@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 // Desafio Super Trunfo - Países
-// Tema 4 - Criação do menu interativo
-// Objetivo: No nível novato você deve criar as cartas representando as cidades utilizando scanf para entrada de dados e printf para exibir as informações.
+//Nível Mestre
+// Objetivo: No nível Mestre, você implementará comparações entre as cartas, utilizando operadores relacionais e manipulando grandes números com precisão.
 
 int main() {
     // Variáveis da primeira carta
