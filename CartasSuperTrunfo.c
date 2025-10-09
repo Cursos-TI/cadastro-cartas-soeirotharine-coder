@@ -21,6 +21,8 @@ int main() {
     float area2, pib2, densidade2, pibPerCapita2, superPoder2;
     int pontosTuristicos2;
 
+    int opcao;
+
     printf("=========================================\n");
     printf("      🏆 SUPER TRUNFO - BATALHA FINAL 🏆\n");
     printf("=========================================\n\n");
